@@ -23,6 +23,9 @@
 .. |DOI| image:: https://zenodo.org/badge/21369/scikit-learn/scikit-learn.svg
 .. _DOI: https://zenodo.org/badge/latestdoi/21369/scikit-learn/scikit-learn
 
+![Constable](https://img.shields.io/badge/dynamic/json?label=Constable&query=$.grade&url=https://constable-github.firebaseio.com/jayjagtap/scikit-learn/master.json)
+
+
 .. |PythonMinVersion| replace:: 3.6
 .. |NumPyMinVersion| replace:: 1.13.3
 .. |SciPyMinVersion| replace:: 0.19.1
@@ -37,8 +40,7 @@
 .. image:: doc/logos/scikit-learn-logo.png
   :target: https://scikit-learn.org/
   
-  ![Constable](https://img.shields.io/badge/dynamic/json?label=Constable&query=$.grade&url=https://constable-github.firebaseio.com/jayjagtap/scikit-learn/master.json)
-
+  
 
 **scikit-learn** is a Python module for machine learning built on top of
 SciPy and is distributed under the 3-Clause BSD license.
